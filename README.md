@@ -1,8 +1,8 @@
 # next-app-backend-static-apis
 NextJS app for learning backend without any database connection (Static Data).
 
-Installation
+# Installation
 npm i
 
-Start App
+# Start App
 npm run dev
